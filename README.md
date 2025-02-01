@@ -5,9 +5,12 @@
 ## 📝 Descrição
 O Projeto Android é um site educativo e interativo que conta a história do mascote do Android, o Bugdroid. Desenvolvido durante o Capítulo 17 do Curso de HTML5 e CSS3, este projeto combina tecnologia e educação de forma envolvente.
 
-![Demonstração da página](projeto-android.png)
+
 
 ## 🚀 Demonstração
+
+![Demonstração da página](projeto-android.png)
+
 Acesse o projeto em funcionamento: [Projeto Android](https://geovanigaldino.github.io/projeto-android/)
 
 ## 🛠️ Tecnologias Utilizadas
